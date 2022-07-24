@@ -1,0 +1,38 @@
+[
+    {
+        "turns": [
+            {
+                "uid": "65c6074e-1e31-4d06-9fe2-15d630a77c1d",
+                "n_turn": 1,
+                "code_turn": "FR6bwx1q",
+                "letter_turn": "A",
+                "date": "julio-24-2022"
+            },
+            {
+                "uid": "65c6074e-1e31-4d06-9fe2-15d630a77c1d",
+                "n_turn": 2,
+                "code_turn": "ByamOdWV",
+                "letter_turn": "A",
+                "date": "julio-23-2022"
+            },
+            {
+                "uid": "65c6074e-1e31-4d06-9fe2-15d630a77c1d",
+                "n_turn": 3,
+                "code_turn": "7roFwfQs",
+                "letter_turn": "C",
+                "date": "julio-23-2022"
+            }
+        ]
+    },
+    {
+        "users":[
+            {
+                "uid": "65c6074e-1e31-4d06-9fe2-15d630a77c1d",
+                "name_full": "Didier Arias",
+                "phone": "3242834033",
+                "email": "ariasd672@gmail.com",
+                "pwd": "1234"
+            }
+        ]
+    }
+]
